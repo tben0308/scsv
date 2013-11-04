@@ -1,0 +1,10 @@
+100001	Bennett	Tom	tben0308@gmail.com	314.602.6563	tben0308	passme
+100002	Bennett	Paul	pab@gmail.com	314.494.2223	pab1	passme
+100003	Choi	Mike	sonicdew@gmail.com	314.602.6573	sonicdew	passme
+100004	Guerrein	Paul	pguerrein@aol.com	314.394.6797	pguerrein	passme
+100005	McDannel	Rick	rmcdannel@thompsoncoburn.com	314.602.8382	rickym	passme
+100006	Dalziel	Paul	pdiddy@gmail.com	314.602.2393	pdiddy	passme
+100007	Sykora	Jim	jim.sykora@majorbrands.com	314.689.2112	jsykora	passme
+100008	Sykora	Rob	billiardguy@gmail.com	314.393.5958	billiardguy	passme
+100009	Donegan	Bill	wdonegan@gmail.com	314.484.4922	wdonegan	passme
+100010	Borman	Mike	mike.borman@boxing-clever.com	314.600.6343	borman	passme
