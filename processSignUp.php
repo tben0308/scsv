@@ -23,7 +23,7 @@ $email = $_POST['email'];
 
 
 echo "<h2>Welcome to the video list: $firstName $lastName </h2>";
-echo "<p>We will e-mail you at: $email</p>";
+echo "<p>Please look for an e-mail at: $email</p>";
 echo date('H:i, jS F Y');
 
 
