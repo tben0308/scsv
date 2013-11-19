@@ -30,8 +30,14 @@ echo date('H:i, jS F Y');
 @ $db = new mysqli('localhost', 'socalsp2_tom', 'warth0gs', 'socalsp2_soCalSports');
 
   if (mysqli_connect_errno()) {
-     echo 'Error: Could not connect to database.  Please try again later.';
-     exit;
+   
+      @ $db = new mysqli('localhost', 'tom', 'warth0gs', 'socalSports');
+
+      if (mysqli_connect_errno()) {
+         
+         echo 'Error: Could not connect to database.  Please try again later.';
+         exit;
+      }
   }
 
   $query = "select * from person";
