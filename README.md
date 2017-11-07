@@ -3,4 +3,4 @@ scsv
 
 SoCal Sports Video
 
-a ForeSolutions endeavor
+A ForeSolutions endeavor
